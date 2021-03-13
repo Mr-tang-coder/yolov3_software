@@ -85,6 +85,7 @@ If you want to use original pretrained weights for YOLOv3:
     - Python 3.5.2
     - Keras 2.1.5
     - tensorflow 1.6.0
+	- pyqt5
 
 2. Default anchors are used. If you use your own anchors, probably some changes are needed.
 
